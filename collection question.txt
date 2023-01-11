@@ -1,0 +1,10 @@
+1.develop a java program to store integer object as key which indicates student id  and student object as the value inside LinkedHasmap 
+*every student object will have 3 attributes called as id,name,marks.
+*get all the values(student objects) from the liknedhasmap and store it inside arryalist .
+*based on the input or choice from the user sort based on id or name or marks.
+Note:*
+*achieve Upcasting
+*use put() for map and add() for list
+*use comparator or custom sorting
+*use collections.sort() 
+*in student class data members are private therefore use constructor for setting the data and 3 respective methods.
